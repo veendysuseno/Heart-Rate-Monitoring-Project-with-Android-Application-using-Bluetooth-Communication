@@ -13,6 +13,9 @@ This project uses an Arduino, Pulse Sensor, and an LCD to monitor and display he
 - LED
 - Resistors and other basic electronic components
 
+## Interface Apk:
+![Interface-Apk](img/results.png)
+
 ## Libraries
 
 - [PulseSensorPlayground](https://github.com/WorldFamousElectronics/PulseSensorPlayground) - For interfacing with the Pulse Sensor
